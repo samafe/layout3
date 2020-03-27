@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: silver;
+}
+.container{
+	margin: 0 auto;
+	width: 90%
+}
+.logo, .navbar, .banner{
+	height: 100px;
+	background-color: purple
+}
+h1{
+	font-size: 20px;
+	margin: 0;
+	text-align: center;
+	padding-top: 40px; 
+}
+.navbar{
+	margin: 15px 0;
+}
